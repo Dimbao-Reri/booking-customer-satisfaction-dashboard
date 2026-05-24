@@ -32,22 +32,9 @@ This project demonstrates my ability to:
 
 ## 🧭 Dashboard Sections
 
-Navigate through the analysis using the links below:
+## 📂 Data & Analysis
 
-### 📋 [1. Raw Data](./raw_data.md)
-Complete dataset with all 500 reviews, ratings, and metadata.
-
-### 📊 [2. Home Dashboard](./home_dashboard.md)
-Executive summary with KPIs, trend charts, and visual overview.
-
-### 🔍 [3. Category Analysis](./category_analysis.md)
-Deep dive into customer pain points by category (Customer Service, Refunds, Hidden Fees, etc.).
-
-### 💬 [4. Sentiment Analysis](./sentiment_analysis.md)
-Text analysis of positive vs. negative keywords and behavioral insights.
-
-### 🏢 [5. Glassdoor Insights](./glassdoor_insights.md)
-Employee satisfaction analysis — culture, compensation, and work-life balance.
+📊 **[View the Complete Dashboard Workbook](./Booking_Complete_Analysis_500_Reviews.xlsx)** — Includes all sheets: Raw Data, Home Dashboard, Category Analysis, Sentiment Analysis, and Glassdoor Insights.
 
 ---
 
