@@ -34,7 +34,7 @@ This project demonstrates my ability to:
 
 ## 📂 Data & Analysis
 
-📊 **[View the Complete Dashboard Workbook](./Booking_Complete_Analysis_500_Reviews.xlsx)** — Includes all sheets: Raw Data, Home Dashboard, Category Analysis, Sentiment Analysis, and Glassdoor Insights.
+📊 [View the Complete Dashboard Workbook](./Booking_Complete_Analysis_500_Reviews.xlsx)
 
 ---
 
