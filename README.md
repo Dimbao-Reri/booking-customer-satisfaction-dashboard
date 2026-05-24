@@ -36,7 +36,9 @@ This project demonstrates my ability to:
 
 ## 📂 Data & Analysis
 
-📊 [View the Complete Dashboard Workbook](./Booking_Complete_Analysis_500_Reviews.xlsx)
+📊 **[View the Interactive Dashboard Online](https://docs.google.com/spreadsheets/d/e/2PACX-1vT24gJM6VA1WHeClYFcvCM7q7uw5Ol0rkr-oQOoy-hgOVltIvEKJJY2h3f78nX_Fp5fRRKc6aP1dQjZ/pubhtml)** — Navigate through all sheets: Home Dashboard, Category Analysis, Sentiment Analysis, and Glassdoor Insights.
+
+⬇️ **[Download the Excel Workbook](./Booking_Complete_Analysis_500_Reviews.xlsx)** — For offline analysis.
 
 ---
 
