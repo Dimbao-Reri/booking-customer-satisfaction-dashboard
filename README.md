@@ -4,7 +4,7 @@
 ![Power BI](https://img.shields.io/badge/Tool-Excel%20%7C%20GitHub-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](./dashboard_preview.png)
 
 ## 🎯 Project Overview
 
