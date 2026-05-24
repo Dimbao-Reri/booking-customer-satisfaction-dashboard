@@ -4,6 +4,8 @@
 ![Power BI](https://img.shields.io/badge/Tool-Excel%20%7C%20GitHub-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## 🎯 Project Overview
 
 Interactive dashboard analyzing **500 real customer and employee reviews** of Booking.com, one of Europe's largest travel tech companies headquartered in Amsterdam.
